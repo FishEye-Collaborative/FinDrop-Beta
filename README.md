@@ -7,7 +7,7 @@ Welcome to the FinDrop-Beta repository where we will work together to submit fea
 
 # Installation
 
-Grab the latest version here:  
+Grab the latest version for your operating system (Mac/Windows/Linux) here:  
 - [Download FinDrop v1.0](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/tag/v1.0.0)
 
 # Manuals
