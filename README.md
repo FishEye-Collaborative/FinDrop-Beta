@@ -15,12 +15,12 @@ FinDrop is built for the following platforms:
 
 | Platform       | OS Version            | Status       | 
 |----------------|------------------------|--------------|
-| **Windows**    | 10 (64-bit)           | ✅ Supported | 
-|                | 11                    | ✅ Supported |
-| **macOS**      | 13 Ventura            | ✅ Supported |
-|                | 14 Sonoma (latest)    | ✅ Supported | 
-| **Linux**      | Ubuntu 22.04          | ✅ Supported | 
-|                | Ubuntu 18.04          | ✅ Supported |  
+| **Windows**    | 10 (64-bit)           | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.1/FinDrop-windows-latest.zip) | 
+|                | 11                    | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.1/FinDrop-windows-latest.zip) |
+| **macOS**      | 13 Ventura            | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.1/FinDrop-macos-13.zip) |
+|                | 14 Sonoma (latest)    | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.1/FinDrop-macos-13.zip) | 
+| **Linux**      | Ubuntu 22.04          | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.1/FinDrop-ubuntu-latest.zip) | 
+|                | Ubuntu 18.04          | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.1/FinDrop-ubuntu-18.04.zip) |  
 
 > ℹ️ If you run into issues with these builds or need builds for ARM (e.g., Raspberry Pi), or other platforms, please open an issue!
 
