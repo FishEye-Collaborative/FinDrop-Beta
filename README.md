@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/github/v/release/FishEye-Collaborative/FinDrop-Beta?label=Download&style=for-the-badge)](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/latest)
+[![Download](https://img.shields.io/github/v/release/FishEye-Collaborative/FinDrop-Beta?label=Download&style=for-the-badge)](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/tag/v1.0.1)
 
 <img width="1290" alt="FinDrop-color" src="https://github.com/user-attachments/assets/838d4e5a-5bd8-4624-b030-77314e98a219" />
 
@@ -8,7 +8,7 @@ Welcome to the FinDrop-Beta repository where we will work together to submit fea
 # Installation
 
 Grab the latest version for your operating system (Mac/Windows/Linux) here:  
-- [Download FinDrop v1.0](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/tag/v1.0.0)
+- [Download FinDrop v1.0](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/tag/v1.0.1)
 
 ## GUI OS Compatibility 
 
