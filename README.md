@@ -25,3 +25,20 @@ FinDrop is built for the following platforms:
 > ℹ️ If you run into issues with these builds or need builds for ARM (e.g., Raspberry Pi), or other platforms, please open an issue!
 
 # Manuals
+
+## 🤝 Collaborators & Sponsors
+
+### Collaborators
+<p align="center">
+  <img src="assets/logos/sextonco.png" alt="Sexton Co" height="60"/>
+  <img src="assets/logos/forthics.png" alt="FORTH-ICS" height="60"/>
+</p>
+
+### Sponsors
+<p align="center">
+  <img src="assets/logos/curacaoseaaquarium.png" alt="Curacao Sea Aquarium" height="60"/>
+  <img src="assets/logos/synchro.png" alt="Synchro" height="60"/>
+  <img src="assets/logos/nsf.png" alt="NSF" height="60"/>
+  <img src="assets/logos/wildlabs.png" alt="WildLabs" height="60"/>
+</p>
+
