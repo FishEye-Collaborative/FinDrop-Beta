@@ -22,7 +22,7 @@ FinDrop is built for the following platforms:
 | **Linux**      | Ubuntu 22.04          | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.1/FinDrop-ubuntu-latest.zip) | 
 |                | Ubuntu 18.04          | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.1/FinDrop-ubuntu-18.04.zip) |  
 
-> ℹ️ If you run into issues with these builds or need builds for ARM (e.g., Raspberry Pi), or other platforms, please open an issue!
+> ℹ️ If you run into issues with these builds or need builds for ARM (e.g., Raspberry Pi), or other platforms, please open an [issue](https://github.com/FishEye-Collaborative/FinDrop-Beta/issues)! 
 
 # Manuals
 You can find the detailed user manuals for the hardware and software of FinDrop at the following link:
