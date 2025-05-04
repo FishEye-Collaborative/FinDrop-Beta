@@ -25,6 +25,10 @@ FinDrop is built for the following platforms:
 > ℹ️ If you run into issues with these builds or need builds for ARM (e.g., Raspberry Pi), or other platforms, please open an issue!
 
 # Manuals
+You can find the detailed user manuals for the hardware and software of FinDrop at the following link:
+
+- [Hardware Manual](https://github.com/FishEye-Collaborative/FinDrop-Beta/blob/main/User%20Manual-%20FinDrop%20TRL6.pdf)
+- [Software Manual](https://github.com/FishEye-Collaborative/FinDrop-Beta/blob/main/User%20Manual-%20FinDrop%20TRL6.pdf)
 
 ## 🤝 Collaborators & Sponsors
 
