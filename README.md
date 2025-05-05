@@ -7,7 +7,7 @@ Welcome to the FinDrop-Beta repository where we will work together to submit fea
 # Installation
 
 Grab the latest version for your operating system (Mac/Windows/Linux) here:  
-- [Download FinDrop v1.0](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/tag/v1.0.1)
+- [Download FinDrop v1.0](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/tag/v1.0.2)
 
 ## GUI OS Compatibility 
 
@@ -28,7 +28,7 @@ FinDrop is built for the following platforms:
 You can find the detailed user manuals for the hardware and software of FinDrop at the following link:
 
 - [Hardware Manual](https://github.com/FishEye-Collaborative/FinDrop-Beta/blob/main/User%20Manual-%20FinDrop%20TRL6.pdf)
-- [Software Manual](https://github.com/FishEye-Collaborative/FinDrop-Beta/blob/main/User%20Manual-%20FinDrop%20TRL6.pdf)
+- Software Manual - coming soon!
 
 ## 🤝 Collaborators & Sponsors
 
