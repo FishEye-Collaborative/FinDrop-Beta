@@ -38,11 +38,15 @@ You can find the detailed user manuals for the hardware and software of FinDrop 
   <img src="assets/logos/forthics.png" alt="FORTH-ICS" height="60"/>
 </p>
 
+### Advisors
+<p align="center">
+  <img src="assets/logos/cornell.png" alt="Cornell" height="60"/>
+</p>
+
 ### Sponsors
 <p align="center">
   <img src="assets/logos/curacaoseaaquarium.png" alt="Curacao Sea Aquarium" height="60"/>
   <img src="assets/logos/synchro.png" alt="Synchro" height="60"/>
-  <img src="assets/logos/nsf.png" alt="NSF" height="60"/>
   <img src="assets/logos/wildlabs.png" alt="WildLabs" height="60"/>
 </p>
 
