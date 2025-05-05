@@ -47,6 +47,6 @@ You can find the detailed user manuals for the hardware and software of FinDrop 
 <p align="center">
   <img src="assets/logos/curacaoseaaquarium.png" alt="Curacao Sea Aquarium" height="60"/>
   <img src="assets/logos/synchro.png" alt="Synchro" height="60"/>
-  <img src="assets/logos/wildlabs.png" alt="WildLabs" height="60"/>
+  <img src="assets/logos/wildlabs2.png" alt="WildLabs" height="60"/>
 </p>
 
