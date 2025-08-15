@@ -4,7 +4,7 @@
 # FinDrop-Beta
 Welcome to the FinDrop-Beta repository where we will work together to submit feature requests or to raise issues with either the software or firmware. We will work as quickly as possible to get you up and running with FinDrop, so you have a reliable experience. 
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1108479619?h=3680e135d9" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+[![Watch on Vimeo](https://i.vimeocdn.com/video/1108479619_640x360.jpg)](https://vimeo.com/1108479619)
 
 # Installation
 
