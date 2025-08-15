@@ -4,7 +4,7 @@
 # FinDrop-Beta
 Welcome to the FinDrop-Beta repository where we will work together to submit feature requests or to raise issues with either the software or firmware. We will work as quickly as possible to get you up and running with FinDrop, so you have a reliable experience. 
 
-[![Watch on Vimeo](https://i.vimeocdn.com/video/1108479619_640x360.jpg)](https://vimeo.com/1108479619)
+[![Watch on Vimeo](https://github.com/FishEye-Collaborative/FinDrop-Beta/blob/main/assets/logos/thumbnail_video.png)](https://vimeo.com/1108479619)
 
 # Installation
 
