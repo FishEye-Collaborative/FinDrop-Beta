@@ -6,25 +6,12 @@ Welcome to the FinDrop-Beta repository where we will work together to submit fea
 
 [![Watch on Vimeo](https://github.com/FishEye-Collaborative/FinDrop-Beta/blob/main/assets/logos/video_thumbnail.png)](https://vimeo.com/1108479619)
 
-# Installation
-
-Grab the latest version for your operating system (Mac/Windows/Linux) here:  
-- [Download FinDrop v1.0](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/tag/v1.0.2)
 
 ## GUI OS Compatibility 
 
-FinDrop is built for the following platforms:
+FinDrop UI is now switched to be an installable WebApp: [FinDropUI](https://fisheye-collaborative.github.io/FinDrop/)
 
-| Platform       | OS Version            | Status       | 
-|----------------|------------------------|--------------|
-| **Windows**    | 10 (64-bit)           | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.2/FinDrop-windows-latest.zip) | 
-|                | 11                    | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.2/FinDrop-windows-latest.zip) |
-| **macOS**      | 13 Ventura            | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.2/FinDrop-macos-13.zip) |
-|                | 14 Sonoma (latest)    | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.2/FinDrop-macos-13.zip) | 
-| **Linux**      | Ubuntu 22.04          | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.2/FinDrop-ubuntu-latest.zip) | 
-|                | Ubuntu 18.04          | ✅ [Supported](https://github.com/FishEye-Collaborative/FinDrop-Beta/releases/download/v1.0.2/FinDrop-ubuntu-18.04.zip) |  
-
-> ℹ️ If you run into issues with these builds or need builds for ARM (e.g., Raspberry Pi), or other platforms, please open an [issue](https://github.com/FishEye-Collaborative/FinDrop-Beta/issues)! 
+It is recommended to use Chrome, other browsers have not been thoroughly tested.
 
 # Manuals
 You can find the detailed user manuals for the hardware and software of FinDrop at the following link:
